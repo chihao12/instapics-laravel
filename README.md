@@ -1,4 +1,4 @@
-instapics-laravel
-=================
+Instapics - Laravel Build
+=============
 
-Instagram Clone, built in Laravel
+Instapics is an Instagram Clone built in Laravel. 
