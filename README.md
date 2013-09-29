@@ -1,4 +1,4 @@
 instapics-laravel
 =================
 
-An Instagram clone made with Laravel
+Instagram Clone, built in Laravel
